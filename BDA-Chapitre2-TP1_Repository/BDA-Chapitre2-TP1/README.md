@@ -1,4 +1,4 @@
-# 🗄️ BDA — Chapitre 2 : Bases de Données Distribuées
+# 🗄️ BDA — Chapter 2 : Distributed data bases
 ## Lab 2.1 — Distributed Architectures and Fragmentation
 
 **ENSTA Alger — 3ème Année Ingénieur — Parcours AI & SS**
