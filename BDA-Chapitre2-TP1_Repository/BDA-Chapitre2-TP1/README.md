@@ -1,5 +1,5 @@
 # 🗄️ BDA — Chapitre 2 : Bases de Données Distribuées
-## TP 2.1 — Architectures Distribuées et Fragmentation des Données
+## Lab 2.1 — Distributed Architectures and Fragmentation
 
 **ENSTA Alger — 3ème Année Ingénieur — Parcours AI & SS**
 Module : Bases de Données Avancées | Année universitaire 2024–2025
@@ -12,9 +12,9 @@ Module : Bases de Données Avancées | Année universitaire 2024–2025
 |---|---|
 | **Chapitre** | 2 — Bases de Données Distribuées |
 | **TP** | 2.1 — Architectures et Fragmentation |
-| **Durée** | 2h30 à 3h |
+| **Durée** | 1h30  |
 | **Mode** | Binôme ou individuel |
-| **Date limite** | _(à préciser par l'enseignant)_ |
+| **Date limite** | 23/04/2026 |
 
 ---
 
@@ -154,14 +154,14 @@ Déposez **obligatoirement** les fichiers suivants dans `rendu/` :
 
 | Exercice | Points |
 |----------|--------|
-| Ex. 1 — Architecture | 20 pts |
-| Ex. 2 — Fragmentation horizontale | 25 pts |
-| Ex. 3 — Fragmentation verticale | 20 pts |
-| Ex. 4 — Fragmentation hybride + allocation | 20 pts |
-| Ex. 5 — Réplication | 15 pts |
-| Ex. 6 — Cas intégrateur | 20 pts |
-| **TOTAL** | **120 pts** (ramené à 20) |
-| Bonus | +10 pts max |
+| Ex. 1 — Architecture |  pts |
+| Ex. 2 — Fragmentation horizontale |  pts |
+| Ex. 3 — Fragmentation verticale |  pts |
+| Ex. 4 — Fragmentation hybride + allocation |  pts |
+| Ex. 5 — Réplication |  pts |
+| Ex. 6 — Cas intégrateur |  pts |
+| **TOTAL** | ** pts** (ramené à ) |
+| Bonus | + pts max |
 
 ---
 
